@@ -15,7 +15,10 @@
 - Se você quiser iniciar o servidor em modo de produção use:
 
 ```shell
-  yarn build
+  yarn build e yarn app
+```
 
-  yarn dev
+- Se você quiser converter o código atual em JavaScript:
+```shell
+  yarn build
 ```
